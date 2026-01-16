@@ -1,16 +1,13 @@
-## Hi there 👋
+## Quality Engineering Portfolio
 
-<!--
-**mayankmahajan0work/mayankmahajan0work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation-focused Quality Engineering Lead with 18+ years of experience in test automation,
+CI/CD integration, and quality transformation for large-scale applications.
 
-Here are some ideas to get you started:
+This GitHub profile contains curated examples demonstrating:
+- Scalable Playwright-based UI and API automation frameworks
+- Backend and data validation using REST APIs and SQL
+- CI/CD quality gates, metrics, and release readiness practices
+- Pragmatic testing strategies for AI-enabled and data-driven systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These repositories are intentionally scoped to demonstrate practical,
+production-oriented Quality Engineering leadership and delivery practices.
